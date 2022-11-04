@@ -2,4 +2,4 @@ namespace: flexable-dev
 name: superiad
 env_secret_name: superiad-env-secret
 alb_group_name: flexable-alb
-port: 8000
+port: 80
